@@ -16,8 +16,11 @@ Object Detection
 
 
 # Fast Region Proposal Network [Paper](https://arxiv.org/abs/1504.08083)
-![]()
 - proposes a Region Proposal Network to select the ROIs.
 - uses ROI pooling to classify each ROI.
-- ROI Allign is used to tackle the problem of data loss and miss allignment during ROI pooling.
 
+# Mask-RCNN [Paper](https://arxiv.org/abs/1703.06870)
+- Mask RCNN used parallel heads for class, mask and box regression.
+- ROI Allign is used to tackle the problem of data loss and miss allignment during ROI pooling.
+- Fully Convolutional Network is used to regress the mask.
+- 
