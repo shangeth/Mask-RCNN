@@ -7,5 +7,5 @@ Object Detection
 <br>+ Semantic Segmentation
 <br>![](https://deeplearninganalytics.org/x/cdn/?https://storage.googleapis.com/wzukusers/user-32883313/images/5c140bcc570211goPAxe/semantic.gif)
 <br>=
-<br>![](https://cdn-images-1.medium.com/max/1600/1*enOf0BEuyn_YDdFWKp86Uw.gif)
+<br>![](http://thoth.inrialpes.fr/people/pluc/eccv883images/long/inst/frankfurt_000000_015676/nT11.gif)
 
