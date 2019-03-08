@@ -14,3 +14,10 @@ Object Detection
 - approach for bounding box object detection
 - uses proposed regions aka 'Regions of Interest(ROI)'
 -
+
+# Fast Region Proposal Network [Paper](https://arxiv.org/abs/1504.08083)
+![]()
+- proposes a Region Proposal Network to select the ROIs.
+- uses ROI pooling to classify each ROI.
+- ROI Allign is used to tackle the problem of data loss and miss allignment during ROI pooling.
+
