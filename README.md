@@ -23,4 +23,4 @@ Object Detection
 - Mask RCNN used parallel heads for class, mask and box regression.
 - ROI Allign is used to tackle the problem of data loss and miss allignment during ROI pooling.
 - Fully Convolutional Network is used to regress the mask.
-- 
+
