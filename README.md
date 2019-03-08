@@ -13,7 +13,7 @@ Object Detection
 ![](https://cdn-images-1.medium.com/max/800/1*REPHY47zAyzgbNKC6zlvBQ.png)
 - approach for bounding box object detection
 - uses proposed regions aka 'Regions of Interest(ROI)'
--
+
 
 # Fast Region Proposal Network [Paper](https://arxiv.org/abs/1504.08083)
 ![]()
